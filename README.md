@@ -1,5 +1,5 @@
 # EmotiScan — Facial Emotion Detector Web App
-### ADBMS Project | Group Members: [Your Name] & Kabeer Kumar
+### ADBMS Project | Group Members: Aoun Ali & Kabeer Kumar
 
 ---
 
