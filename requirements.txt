@@ -2,7 +2,7 @@ flask==3.0.3
 flask-bcrypt==1.0.1
 pymongo==4.8.0
 opencv-python-headless==4.10.0.84
-numpy==1.26.4
-scipy==1.13.1
+numpy==1.24.4
+scipy==1.11.4
 scikit-learn==1.5.1
 gunicorn==23.0.0
